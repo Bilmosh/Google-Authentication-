@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "274674290987",
+    "project_id": "firebase-kenter"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274674290987:android:317111e2523fa1c1",
+        "android_client_info": {
+          "package_name": "com.omondi.kenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274674290987-bngtq3m74i0fdive5an9pkif1nlpbhvp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "274674290987-90gool8o0me6tcpmqc2a5oau547b19tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omondi.kenter",
+            "certificate_hash": "ba62e377484a0317c6d7e1aa88c0d9287f783807"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh6QmSfpImFFLNQQ16OEjsUzoL6RO1f2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
